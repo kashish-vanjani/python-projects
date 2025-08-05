@@ -64,5 +64,5 @@ Fetches real-time weather data from the OpenWeatherMap API for a given city.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/python-7-day-challenge.git
-   cd python-7-day-challenge
+   git clone https://github.com/kashish-vanjani/python-projects.git
+   cd python-projects
